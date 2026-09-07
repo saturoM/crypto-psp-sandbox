@@ -1,3 +1,5 @@
+Study lecture (UA): [`learn/00_architecture_overview.md`](../../learn/00_architecture_overview.md)
+
 # Architecture · Crypto PSP sandbox
 
 ## Compose topology
