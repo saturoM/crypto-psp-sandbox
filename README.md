@@ -18,6 +18,10 @@ Showcase Full Stack + payments thinking (PSP, idempotency, async webhooks, broke
 | Broker | RabbitMQ (webhook dispatch + domain events) |
 | Ops | Docker Compose, structured JSON logs, tests, GitHub Actions CI |
 
+## Learn (study-style)
+
+1. [01 Invoice path](learn/01_invoice_path.md) · [terms](learn/01_terms.md) · [drill](learn/drills/01_invoice_quiz.md)
+
 ## Docs (start here)
 
 1. [Domain model](docs/theory/01-domain.md) — invoice, statuses, TAKE ≠ FILL
