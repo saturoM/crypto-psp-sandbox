@@ -20,7 +20,7 @@ Showcase Full Stack + payments thinking (PSP, idempotency, async webhooks, broke
 
 ## Learn (study-style)
 
-0. [00 Architecture overview](learn/00_architecture_overview.md)
+0. [00 Architecture overview](learn/00_architecture_overview.md) · [lifecycle](learn/00_invoice_lifecycle.md) · [FAQ](learn/00_faq_architecture.md)
 1. [01 Invoice path](learn/01_invoice_path.md) · [terms](learn/01_terms.md) · [drill](learn/drills/01_invoice_quiz.md)
 
 ## Docs (start here)

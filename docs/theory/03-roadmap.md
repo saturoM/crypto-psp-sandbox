@@ -21,3 +21,4 @@ Track progress on GitHub via small commits. Suggested order:
 - **2026-09-07** — Learn module 01 (invoice path) + drill quiz pushed.
 - **2026-09-07** — Deep dive: async webhooks via broker (`learn/01_webhook_async.md`).
 - **2026-09-07** — Module 00: big-picture architecture lecture.
+- **2026-09-07** — Invoice lifecycle + architecture FAQ.
