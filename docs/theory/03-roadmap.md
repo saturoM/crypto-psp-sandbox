@@ -23,3 +23,4 @@ Track progress on GitHub via small commits. Suggested order:
 - **2026-09-07** — Module 00: big-picture architecture lecture.
 - **2026-09-07** — Invoice lifecycle + architecture FAQ.
 - **2026-09-07** — Module 00 roles quiz drill added.
+- **2026-09-07** — Module 02 idempotency lecture + drill.
