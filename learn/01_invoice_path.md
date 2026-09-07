@@ -36,3 +36,7 @@ created → pending → captured
 ## Lock на іспит
 
 > Create invoice ≠ money. Captured = FILL. Webhook async.
+
+## Далі глибше
+
+Чому не слати webhook у тому ж HTTP: [`01_webhook_async.md`](01_webhook_async.md).

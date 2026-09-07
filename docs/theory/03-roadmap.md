@@ -19,3 +19,4 @@ Track progress on GitHub via small commits. Suggested order:
 - **2026-09-07** — Milestone 0: theory docs committed.
 
 - **2026-09-07** — Learn module 01 (invoice path) + drill quiz pushed.
+- **2026-09-07** — Deep dive: async webhooks via broker (`learn/01_webhook_async.md`).
